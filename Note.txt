@@ -1,0 +1,18 @@
+***Chuyển HTML sang PHP x
+
+-Đổi tất cả link .html sang .php
+
+
+-Tùy chỉnh lại các cột của thanh Navigation
+
+
+-Sửa footer icon Pinterest
+
+
+*** Chỉnh Carousel x
+
+*** Làm Pagination x
+
+*** Chỉnh Login & Register
+
+*** Chỉnh Cart
