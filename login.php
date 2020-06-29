@@ -335,6 +335,29 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 								</ul>
 							</li>
 
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle hyper" data-toggle="dropdown"><span>Used Product<b class="caret"></b></span></a>
+
+								<ul class="dropdown-menu multi multi3">
+									<div class="row">
+										<div class="col-sm-12">
+
+											<a href="usedproduct.php">
+												<h4>Buy Used Product</h3>
+											</a>
+											<br />
+											<a href="sellusedproduct.php">
+												<h4>Sell Your Used Product</h3>
+											</a>
+
+										</div>
+
+										<!-- <div class="clearfix"></div> -->
+									</div>
+								</ul>
+
+							</li>
+
 							<!--<li><a href="codes.php" class="hyper"> <span>Codes</span></a></li>-->
 							<li><a href="contact.php" class="hyper"><span>Contact Us</span></a></li>
 						</ul>

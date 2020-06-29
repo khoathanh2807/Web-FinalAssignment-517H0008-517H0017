@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "user_db";
+$dbname = "ktstore_db";
 
 // Create connection
 $mysqli = new mysqli($servername, $username, $password, $dbname);
