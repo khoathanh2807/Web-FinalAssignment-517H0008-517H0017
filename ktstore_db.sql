@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 29, 2020 at 05:41 AM
+-- Generation Time: Jun 30, 2020 at 10:40 PM
 -- Server version: 10.4.11-MariaDB
 -- PHP Version: 7.4.5
 
@@ -30,8 +30,8 @@ SET time_zone = "+00:00";
 CREATE TABLE `products` (
   `id` int(11) NOT NULL,
   `productname` varchar(500) NOT NULL,
-  `image` mediumtext NOT NULL,
-  `price` double(100,2) NOT NULL,
+  `image` mediumtext DEFAULT NULL,
+  `price` int(100) NOT NULL,
   `description` mediumtext DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
@@ -40,12 +40,7 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `productname`, `image`, `price`, `description`) VALUES
-(6, '', 'MySetup.jpg', 0.00, NULL),
-(7, '', '1-wtc-america-architecture-374710.jpg', 0.00, NULL),
-(8, '', 'MySetup.jpg', 0.00, NULL),
-(9, '', 'MySetup.jpg', 0.00, NULL),
-(10, '', 'pts1.jpg', 0.00, NULL),
-(11, '', 'CJ7.jpg', 0.00, NULL);
+(21, 'iPhone', '49FZone.jpg', 123456, 'Khoa dep trai zzzz');
 
 -- --------------------------------------------------------
 
@@ -91,7 +86,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
 
 --
 -- AUTO_INCREMENT for table `users`
