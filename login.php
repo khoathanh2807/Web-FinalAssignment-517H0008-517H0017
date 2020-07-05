@@ -212,10 +212,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
 
-												<li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Mainboard</a></li>
-												<li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>CPU</a></li>
-												<li><a href="pccomponent.php"> <i class="fa fa-angle-right" aria-hidden="true"></i>RAM</a></li>
-												<li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>GPU</a></li>
+												<li><a href="pccomponent.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> Mainboard</i></p>
+													</a></li>
+												<li><a href="pccomponent.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> CPU</i></p>
+													</a></li>
+												<li><a href="pccomponent.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> RAM</i></p>
+													</a></li>
+												<li><a href="pccomponent.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> GPU</i></p>
+													</a></li>
 
 											</ul>
 
@@ -223,11 +231,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 										<div class="col-sm-4">
 
 											<ul class="multi-column-dropdown">
-												<li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>SSD</a></li>
-												<li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>HDD</a></li>
-												<li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Power Supply</a></li>
-												<li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>PC Case</a></li>
-												<li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Fan/Liquid Cooling</a></li>
+												<li><a href="pccomponent.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> SSD</i></p>
+													</a></li>
+												<li><a href="pccomponent.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> HDD</i></p>
+													</a></li>
+												<li><a href="pccomponent.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> Power Supply</i></p>
+													</a></li>
+												<li><a href="pccomponent.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> PC Case</i></p>
+													</a></li>
+												<li><a href="pccomponent.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> Fan/Liquid Cooling</i></p>
+													</a></li>
 
 											</ul>
 
@@ -256,8 +274,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 									<div class="row">
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Monitor</a></li>
-												<li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Keyboard</a></li>
+												<li><a href="gaminggear.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> Monitor</i></p>
+													</a></li>
+												<li><a href="gaminggear.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> Keyboard</i></p>
+													</a></li>
 												<!--<li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Cosmetics</a></li>
 												<li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Deo & Purfumes</a></li>-->
 
@@ -267,8 +289,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 										<div class="col-sm-4">
 
 											<ul class="multi-column-dropdown">
-												<li><a href="gaminggear.php"> <i class="fa fa-angle-right" aria-hidden="true"></i>Mouse</a></li>
-												<li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Headset</a></li>
+												<li><a href="gaminggear.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> Mouse</i></p>
+													</a></li>
+												<li><a href="gaminggear.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> Headset</i></p>
+													</a></li>
 												<!--<li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Personal Hygiene</a></li>
 												<li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Skin care</a></li>-->
 
@@ -298,8 +324,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 									<div class="row">
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>>SONY Play Station 4</a></li>
-												<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>PS4 Controller</a></li>
+												<li><a href="console.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> SONY PlayStaytion 4</i></p>
+													</a></li>
+												<li><a href="console.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> PS4 Controller</i></p>
+													</a></li>
 												<!--<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Detergents</a></li>
 												<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Gardening Needs</a></li>-->
 
@@ -309,8 +339,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 										<div class="col-sm-4">
 
 											<ul class="multi-column-dropdown">
-												<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Microsoft XBOX One</a></li>
-												<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>XBOX Controller</a></li>
+												<li><a href="console.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> Microsoft XBOX One</i></p>
+													</a></li>
+												<li><a href="console.php">
+														<p style="font-size: 120%;"><i class="fa fa-angle-right"> XBOX Controller</i></p>
+													</a></li>
 												<!--<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Pet Care</a></li>
 												<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Plastic Wear</a></li>-->
 
@@ -338,19 +372,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle hyper" data-toggle="dropdown"><span>Used Product<b class="caret"></b></span></a>
 
-								<ul class="dropdown-menu multi multi3">
-									<div class="row">
-										<div class="col-sm-12">
-
-											<a href="usedproduct.php">
-												<h4>Buy Used Product</h3>
-											</a>
+								<ul style="min-width: 300px;" class="dropdown-menu multi multi3">
+									<div style=" padding-left: 20px;" class="row">
+										<!-- <div class="col-sm-12"> -->
+										<ul class="multi-column-dropdown">
+											<li><a href="usedproduct.php">
+													<p style="font-size: 140%;"><i class="fa fa-angle-right"> Buy Used Product</i></p>
+												</a></li>
 											<br />
-											<a href="sellusedproduct.php">
-												<h4>Sell Your Used Product</h3>
-											</a>
-
-										</div>
+											<li><a href="sellusedproduct.php">
+													<p style="font-size: 140%;"><i class="fa fa-angle-right"> Sell Your Used Product</i></p>
+												</a></li>
+										</ul>
+										<!-- </div> -->
 
 										<!-- <div class="clearfix"></div> -->
 									</div>

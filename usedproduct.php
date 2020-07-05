@@ -123,10 +123,10 @@
                                         <div class="col-sm-4">
                                             <ul class="multi-column-dropdown">
 
-                                                <li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Mainboard</a></li>
-                                                <li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>CPU</a></li>
-                                                <li><a href="pccomponent.php"> <i class="fa fa-angle-right" aria-hidden="true"></i>RAM</a></li>
-                                                <li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>GPU</a></li>
+                                                <li><a href="pccomponent.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> Mainboard</i></p></a></li>
+                                                <li><a href="pccomponent.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> CPU</i></p></a></li>
+                                                <li><a href="pccomponent.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> RAM</i></p></a></li>
+                                                <li><a href="pccomponent.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> GPU</i></p></a></li>
 
                                             </ul>
 
@@ -134,11 +134,11 @@
                                         <div class="col-sm-4">
 
                                             <ul class="multi-column-dropdown">
-                                                <li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>SSD</a></li>
-                                                <li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>HDD</a></li>
-                                                <li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Power Supply</a></li>
-                                                <li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>PC Case</a></li>
-                                                <li><a href="pccomponent.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Fan/Liquid Cooling</a></li>
+                                                <li><a href="pccomponent.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> SSD</i></p></a></li>
+                                                <li><a href="pccomponent.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> HDD</i></p></a></li>
+                                                <li><a href="pccomponent.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> Power Supply</i></p></a></li>
+                                                <li><a href="pccomponent.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> PC Case</i></p></a></li>
+                                                <li><a href="pccomponent.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> Fan/Liquid Cooling</i></p></a></li>
 
                                             </ul>
 
@@ -167,8 +167,8 @@
                                     <div class="row">
                                         <div class="col-sm-4">
                                             <ul class="multi-column-dropdown">
-                                                <li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Monitor</a></li>
-                                                <li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Keyboard</a></li>
+                                                <li><a href="gaminggear.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> Monitor</i></p></a></li>
+                                                <li><a href="gaminggear.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> Keyboard</i></p></a></li>
                                                 <!--<li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i> Mouse </a></li>
 												<li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i> Headset </a></li>-->
 
@@ -178,8 +178,8 @@
                                         <div class="col-sm-4">
 
                                             <ul class="multi-column-dropdown">
-                                                <li><a href="gaminggear.php"> <i class="fa fa-angle-right" aria-hidden="true"></i>Mouse</a></li>
-                                                <li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Headset</a></li>
+                                                <li><a href="gaminggear.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> Mouse</i></p></a></li>
+                                                <li><a href="gaminggear.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> Headset</i></p></a></li>
                                                 <!--<li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Personal Hygiene</a></li>
 												<li><a href="gaminggear.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Skin care</a></li>-->
 
@@ -209,8 +209,8 @@
                                     <div class="row">
                                         <div class="col-sm-4">
                                             <ul class="multi-column-dropdown">
-                                                <li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>SONY Play Station 4</a></li>
-                                                <li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>PS4 Controller</a></li>
+                                                <li><a href="console.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> SONY PlayStaytion 4</i></p></a></li>
+                                                <li><a href="console.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> PS4 Controller</i></p></a></li>
                                                 <!--<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Detergents</a></li>
 												<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Gardening Needs</a></li>-->
 
@@ -220,8 +220,8 @@
                                         <div class="col-sm-4">
 
                                             <ul class="multi-column-dropdown">
-                                                <li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Microsoft XBOX One</a></li>
-                                                <li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>XBOX Controller</a></li>
+                                                <li><a href="console.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> Microsoft XBOX One</i></p></a></li>
+                                                <li><a href="console.php"><p style= "font-size: 120%;"><i class="fa fa-angle-right"> XBOX Controller</i></p></a></li>
                                                 <!--<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Pet Care</a></li>
 												<li><a href="console.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Plastic Wear</a></li>-->
 
@@ -249,19 +249,19 @@
                             <li class="dropdown active">
                                 <a href="#" class="dropdown-toggle hyper" data-toggle="dropdown"><span>Used Product<b class="caret"></b></span></a>
 
-                                <ul class="dropdown-menu multi multi3">
-                                    <div class="row">
-                                        <div class="col-sm-12">
-
-                                            <a href="usedproduct.php">
-                                                <h4>Buy Used Product</h3>
-                                            </a>
+                                <ul style="min-width: 300px;" class="dropdown-menu multi multi3">
+                                    <div style=" padding-left: 20px;" class="row">
+                                        <!-- <div class="col-sm-12"> -->
+                                        <ul class="multi-column-dropdown">
+                                            <li><a href="usedproduct.php">
+                                                <p style= "font-size: 140%;"><i class="fa fa-angle-right"> Buy Used Product</i></p>
+                                            </a></li>
                                             <br />
-                                            <a href="sellusedproduct.php">
-                                                <h4>Sell Your Used Product</h3>
-                                            </a>
-
-                                        </div>
+                                            <li><a href="sellusedproduct.php">
+                                                <p style= "font-size: 140%;"><i class="fa fa-angle-right"> Sell Your Used Product</i></p>
+                                            </a></li>
+                                        </ul>
+                                        <!-- </div> -->
 
                                         <!-- <div class="clearfix"></div> -->
                                     </div>
@@ -300,7 +300,7 @@
     <!--content-->
     <div class="product">
         <div class="container">
-            <div class="spec ">
+            <div style="margin-top: -20px;" class="spec">
                 <h3>Used Product From KT Computer</h3>
                 <div class="ser-t">
                     <b></b>
@@ -308,7 +308,50 @@
                     <b class="line"></b>
                 </div>
             </div>
-            <div class=" con-w3l">
+
+
+
+            <?php
+            require_once("connect_db.php");
+
+            $query = "SELECT * FROM products ORDER BY id ASC";
+            $result = mysqli_query($conn, $query);
+            if (mysqli_num_rows($result) > 0) {
+                while ($row = mysqli_fetch_array($result)) {
+            ?>
+
+                    <div style="margin-bottom: 30px;" class="col-md-4">
+
+                        <div class="col-m" style="background-color:#f1f1f1; border-radius:5px; padding:16px;" align="center">
+
+                            <img style="height: 200px;" src="images/<?php echo $row["image"]; ?>" class="img-responsive" /><br />
+
+                            <h4 class="text-info"><b><?php echo $row["productname"]; ?></b></h4>
+
+                            <h5 style="margin-top: 18px;" class="text-danger"><?php echo $row["price"]; ?> VND</h5>
+
+                            <p style="margin-top: 18px;"><?php echo $row["description"]; ?></p><br />
+
+                            <div class="clearfix"></div>
+
+                            <div class="add">
+                                <button class="btn btn-danger my-cart-btn my-cart-b" data-id="<?php echo $row["id"]; ?>" data-name="<?php echo $row["productname"]; ?>" data-summary="summary <?php echo $row["id"]; ?>" data-price="<?php echo $row["price"]; ?>" data-quantity="1" data-image="images/<?php echo $row["image"]; ?>">Add to Cart</button>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+            <?php
+                }
+            }
+            ?>
+
+            <div class="clearfix"></div>
+
+
+
+            <!-- <div class=" con-w3l">
                 <div class="col-md-3 pro-1">
                     <div class="col-m">
                         <a href="#" data-toggle="modal" data-target="#myModal17" class="offer-img">
@@ -318,6 +361,7 @@
                             <div class="women">
                                 <h6>ROG Strix GeForce RTX 2080 Ti OC 11GB GDDR6</h6>
                             </div>
+
                             <div class="mid-2">
                                 <p><label>39,500,000</label><em class="item_price">36,990,000 VND</em></p>
                                 <div class="block">
@@ -326,7 +370,7 @@
                                 <div class="clearfix"></div>
                             </div>
                             <div class="add add-2">
-                                <button class="btn btn-danger my-cart-btn my-cart-b" data-id="5" data-name="ROG Strix GeForce RTX 2080 Ti OC" data-summary="summary 5" data-price="36990000" data-quantity="1" data-image="images/of4.png">Add to Cart</button>
+                                <button class="btn btn-danger my-cart-btn my-cart-b" data-id="5" data-name="Concac" data-summary="summary 5" data-price="99999" data-quantity="1" data-image="images/ipad-pro-2018.jpg">Add to Cart</button>
                             </div>
                         </div>
                     </div>
@@ -487,7 +531,7 @@
                     </div>
                 </div>
                 <div class="clearfix"></div>
-            </div>
+            </div> -->
 
             <div style="display: block; margin-left: 39%; align-content: center; align-items: center; align-self: center;">
                 <ul class="pagination center-block">

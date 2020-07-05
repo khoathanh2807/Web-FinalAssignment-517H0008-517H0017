@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 30, 2020 at 10:40 PM
+-- Generation Time: Jul 05, 2020 at 10:34 AM
 -- Server version: 10.4.11-MariaDB
 -- PHP Version: 7.4.5
 
@@ -40,7 +40,10 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `productname`, `image`, `price`, `description`) VALUES
-(21, 'iPhone', '49FZone.jpg', 123456, 'Khoa dep trai zzzz');
+(23, 'iPhone Xs Max 99%', 'iphone-xs-max-gold.jpg', 15000000, 'warranty until February 2021'),
+(24, 'Laptop Razer Blade 15 99%', 'razer-blade15.jpg', 30000000, 'Hand goods from the US, genuine warranty'),
+(25, 'iPad Pro 12.9 inch 2018 99%', 'ipad-pro-2018.jpg', 18000000, 'warranty until September 2020'),
+(26, 'Apple Watch Series 5 99%', 'apple-watch.jpg', 9000000, 'warranty until January 2021');
 
 -- --------------------------------------------------------
 
@@ -60,7 +63,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `created_at`) VALUES
-(1, 'khoathanh', '$2y$10$N3ASMyDAjKX.zVtpAfipt.HAul29LqsVDdDlHf4AkwiG5N9PJhN02', '2020-06-29 10:40:18');
+(2, 'admin', '$2y$10$G5TLtSwM5Sw1B38CzrsZzuNwcpH1A5jiM/ug3k2RyRv3QLktnMZ7e', '2020-07-05 15:12:14');
 
 --
 -- Indexes for dumped tables
@@ -86,13 +89,13 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=27;
 
 --
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
